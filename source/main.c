@@ -49,8 +49,8 @@ const char *hostnames[] = {
 	//"nintendowifi.net",
 	//"conntest.nintendowifi.net",
 	//"ctest.cdn.nintendo.net",
-	"pornhub.com"
-	"facebook.com"
+	"pornhub.com",
+	"facebook.com",
 	"google.com"
 	
 };
