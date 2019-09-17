@@ -44,7 +44,15 @@ const char *hostnames[] = {
 	"nintendo.co.za",
 	"nintendo.se",
 	"nintendo.ch",
-	"potato.nintendo.com"
+	"potato.nintendo.com",
+	//testing here//
+	//"nintendowifi.net",
+	//"conntest.nintendowifi.net",
+	//"ctest.cdn.nintendo.net",
+	"pornhub.com"
+	"facebook.com"
+	"google.com"
+	
 };
 
 int main(int argc, char **argv)
