@@ -1,6 +1,9 @@
+git.txt
+/build
 *.sublime-project
 *.sublime-workspace
 *.elf
-*.nro
+*.nso
+*.pfs0
 *.nacp
-build/
+*.nro
