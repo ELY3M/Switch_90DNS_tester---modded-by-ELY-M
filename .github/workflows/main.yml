@@ -30,6 +30,8 @@ jobs:
         run: ls -la
        
       - name: get date/date 
+        env:
+          TZ: "America/Chicago"
         run: | 
           echo "NOW=$(date +'%m-%d-%Y-%I.%M.%S.%p')" >> $GITHUB_ENV
         
